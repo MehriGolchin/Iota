@@ -11,7 +11,7 @@ const config = {
         rules: [
             {
                 test: /\.tsx?$/,
-                use: 'babel-loader',
+                use: 'awesome-typescript-loader',
                 exclude: /node_modules/
             }
         ]
