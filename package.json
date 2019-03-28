@@ -1,10 +1,10 @@
 {
-  "name": "chinwag-storybook",
+  "name": "@kansuite/iota",
   "version": "0.1.0",
-  "description": "Chinwag storybook",
-  "main": "index.js",
+  "description": "Iota is a small set of react components that designed and used by Kansuite project.",
+  "main": "./dist/iota.js",
   "repository": "https://github.com/MehdiGolchin/Storybook.git",
-  "author": "mehdigolchin <mehdi.golchin.kharazi@gmail.com>",
+  "author": "Mehri Golchin <mehri.golchin@gmail.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
