@@ -8,5 +8,12 @@ export const Default = {
 
     labelColor: '#808080',
     inputFontsize: '20px',
+
     fontfamily: 'Arial, Tahoma',
+    fontSize: '16px',
+    fontColor: '#333',
+    revertFontColor: '#fff',
+
+    primary: '#007bff',
+    secondary: '#6c757d',
 };
